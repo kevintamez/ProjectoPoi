@@ -1,0 +1,38 @@
+C:\Users\Base de Datos\Downloads\ServerPOI\ServerPOI\ServerPOI\bin\Debug\ServerPOI.exe
+C:\Users\Base de Datos\Downloads\ServerPOI\ServerPOI\ServerPOI\bin\Debug\ServerPOI.pdb
+C:\Users\Base de Datos\Downloads\ServerPOI\ServerPOI\ServerPOI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Base de Datos\Downloads\ServerPOI\ServerPOI\ServerPOI\obj\x86\Debug\ServerPOI.frmSever.resources
+C:\Users\Base de Datos\Downloads\ServerPOI\ServerPOI\ServerPOI\obj\x86\Debug\ServerPOI.FW.ServerFormClass.resources
+C:\Users\Base de Datos\Downloads\ServerPOI\ServerPOI\ServerPOI\obj\x86\Debug\ServerPOI.Properties.Resources.resources
+C:\Users\Base de Datos\Downloads\ServerPOI\ServerPOI\ServerPOI\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Base de Datos\Downloads\ServerPOI\ServerPOI\ServerPOI\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Base de Datos\Downloads\ServerPOI\ServerPOI\ServerPOI\obj\x86\Debug\ServerPOI.exe
+C:\Users\Base de Datos\Downloads\ServerPOI\ServerPOI\ServerPOI\obj\x86\Debug\ServerPOI.pdb
+C:\Users\210 Equipo 02\Desktop\ServerPOI\ServerPOI\ServerPOI\obj\x86\Debug\ServerPOI.exe
+C:\Users\210 Equipo 02\Desktop\ServerPOI\ServerPOI\ServerPOI\obj\x86\Debug\ServerPOI.csprojResolveAssemblyReference.cache
+C:\Users\210 Equipo 02\Desktop\ServerPOI\ServerPOI\ServerPOI\obj\x86\Debug\ServerPOI.frmSever.resources
+C:\Users\210 Equipo 02\Desktop\ServerPOI\ServerPOI\ServerPOI\obj\x86\Debug\ServerPOI.FW.ServerFormClass.resources
+C:\Users\210 Equipo 02\Desktop\ServerPOI\ServerPOI\ServerPOI\obj\x86\Debug\ServerPOI.Properties.Resources.resources
+C:\Users\210 Equipo 02\Desktop\ServerPOI\ServerPOI\ServerPOI\obj\x86\Debug\ServerPOI.csproj.GenerateResource.Cache
+C:\Users\210 Equipo 02\Desktop\ServerPOI\ServerPOI\ServerPOI\bin\Debug\ServerPOI.exe
+C:\Users\210 Equipo 02\Desktop\ServerPOI\ServerPOI\ServerPOI\bin\Debug\ServerPOI.pdb
+C:\Users\210 Equipo 02\Desktop\ServerPOI\ServerPOI\ServerPOI\obj\x86\Debug\ServerPOI.pdb
+C:\Users\kevin\Documents\Descargas\POI\Poi Practica 1\Poi Practica 1\ServerPOI\ServerPOI\ServerPOI\bin\Debug\ServerPOI.exe
+C:\Users\kevin\Documents\Descargas\POI\Poi Practica 1\Poi Practica 1\ServerPOI\ServerPOI\ServerPOI\bin\Debug\ServerPOI.pdb
+C:\Users\kevin\Documents\Descargas\POI\Poi Practica 1\Poi Practica 1\ServerPOI\ServerPOI\ServerPOI\obj\x86\Debug\ServerPOI.frmSever.resources
+C:\Users\kevin\Documents\Descargas\POI\Poi Practica 1\Poi Practica 1\ServerPOI\ServerPOI\ServerPOI\obj\x86\Debug\ServerPOI.FW.ServerFormClass.resources
+C:\Users\kevin\Documents\Descargas\POI\Poi Practica 1\Poi Practica 1\ServerPOI\ServerPOI\ServerPOI\obj\x86\Debug\ServerPOI.Properties.Resources.resources
+C:\Users\kevin\Documents\Descargas\POI\Poi Practica 1\Poi Practica 1\ServerPOI\ServerPOI\ServerPOI\obj\x86\Debug\ServerPOI.csproj.GenerateResource.Cache
+C:\Users\kevin\Documents\Descargas\POI\Poi Practica 1\Poi Practica 1\ServerPOI\ServerPOI\ServerPOI\obj\x86\Debug\ServerPOI.exe
+C:\Users\kevin\Documents\Descargas\POI\Poi Practica 1\Poi Practica 1\ServerPOI\ServerPOI\ServerPOI\obj\x86\Debug\ServerPOI.pdb
+C:\Users\kevin\Documents\Descargas\POI\Poi Practica 1\Poi Practica 1\ServerPOI\ServerPOI\ServerPOI\obj\x86\Debug\ServerPOI.csprojResolveAssemblyReference.cache
+C:\Users\kevin\Documents\GitHub\POI PROJECTO\Poi Practica 1\ServerPOI\ServerPOI\ServerPOI\obj\x86\Debug\ServerPOI.exe
+C:\Users\kevin\Documents\GitHub\POI PROJECTO\Poi Practica 1\ServerPOI\ServerPOI\ServerPOI\obj\x86\Debug\ServerPOI.pdb
+C:\Users\kevin\Documents\GitHub\POI PROJECTO\Poi Practica 1\ServerPOI\ServerPOI\ServerPOI\bin\Debug\ServerPOI.exe
+C:\Users\kevin\Documents\GitHub\POI PROJECTO\Poi Practica 1\ServerPOI\ServerPOI\ServerPOI\bin\Debug\ServerPOI.pdb
+C:\Users\kevin\Documents\GitHub\POI PROJECTO\Poi Practica 1\ServerPOI\ServerPOI\ServerPOI\bin\Debug\MySql.Data.dll
+C:\Users\kevin\Documents\GitHub\POI PROJECTO\Poi Practica 1\ServerPOI\ServerPOI\ServerPOI\obj\x86\Debug\ServerPOI.csprojResolveAssemblyReference.cache
+C:\Users\kevin\Documents\GitHub\POI PROJECTO\Poi Practica 1\ServerPOI\ServerPOI\ServerPOI\obj\x86\Debug\ServerPOI.frmSever.resources
+C:\Users\kevin\Documents\GitHub\POI PROJECTO\Poi Practica 1\ServerPOI\ServerPOI\ServerPOI\obj\x86\Debug\ServerPOI.FW.ServerFormClass.resources
+C:\Users\kevin\Documents\GitHub\POI PROJECTO\Poi Practica 1\ServerPOI\ServerPOI\ServerPOI\obj\x86\Debug\ServerPOI.Properties.Resources.resources
+C:\Users\kevin\Documents\GitHub\POI PROJECTO\Poi Practica 1\ServerPOI\ServerPOI\ServerPOI\obj\x86\Debug\ServerPOI.csproj.GenerateResource.Cache
