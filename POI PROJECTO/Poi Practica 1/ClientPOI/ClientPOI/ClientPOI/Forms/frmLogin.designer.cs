@@ -110,6 +110,7 @@
             this.cBState.Name = "cBState";
             this.cBState.Size = new System.Drawing.Size(219, 21);
             this.cBState.TabIndex = 6;
+            this.cBState.SelectedIndexChanged += new System.EventHandler(this.cBState_SelectedIndexChanged);
             // 
             // frmLogin
             // 

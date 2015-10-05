@@ -52,6 +52,12 @@
     <Compile Include="Forms\frmChat.designer.cs">
       <DependentUpon>frmChat.cs</DependentUpon>
     </Compile>
+    <Compile Include="Forms\frmChatGrupal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmChatGrupal.Designer.cs">
+      <DependentUpon>frmChatGrupal.cs</DependentUpon>
+    </Compile>
     <Compile Include="Forms\frmLogin.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -77,6 +83,9 @@
     <Compile Include="USER\User.cs" />
     <EmbeddedResource Include="Forms\frmChat.resx">
       <DependentUpon>frmChat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmChatGrupal.resx">
+      <DependentUpon>frmChatGrupal.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\frmLogin.resx">
       <DependentUpon>frmLogin.cs</DependentUpon>

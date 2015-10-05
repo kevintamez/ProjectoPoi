@@ -28,14 +28,16 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmChat));
             this.txtMessage = new System.Windows.Forms.TextBox();
-            this.rTBChat = new System.Windows.Forms.RichTextBox();
+            this.ListaMsg = new System.Windows.Forms.RichTextBox();
             this.btnSend = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.btnzumbido = new System.Windows.Forms.Button();
             this.comboBox1 = new System.Windows.Forms.ComboBox();
             this.LblStatus = new System.Windows.Forms.Label();
+            this.contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(this.components);
             this.SuspendLayout();
             // 
             // txtMessage
@@ -48,17 +50,17 @@
             this.txtMessage.Size = new System.Drawing.Size(504, 101);
             this.txtMessage.TabIndex = 1;
             // 
-            // rTBChat
+            // ListaMsg
             // 
-            this.rTBChat.BackColor = System.Drawing.Color.White;
-            this.rTBChat.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.rTBChat.ForeColor = System.Drawing.Color.Maroon;
-            this.rTBChat.Location = new System.Drawing.Point(12, 31);
-            this.rTBChat.Name = "rTBChat";
-            this.rTBChat.Size = new System.Drawing.Size(504, 293);
-            this.rTBChat.TabIndex = 3;
-            this.rTBChat.Text = "";
-            this.rTBChat.TextChanged += new System.EventHandler(this.rTBChat_TextChanged);
+            this.ListaMsg.BackColor = System.Drawing.Color.White;
+            this.ListaMsg.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.ListaMsg.ForeColor = System.Drawing.Color.Maroon;
+            this.ListaMsg.Location = new System.Drawing.Point(12, 31);
+            this.ListaMsg.Name = "ListaMsg";
+            this.ListaMsg.Size = new System.Drawing.Size(504, 293);
+            this.ListaMsg.TabIndex = 3;
+            this.ListaMsg.Text = "";
+            this.ListaMsg.TextChanged += new System.EventHandler(this.rTBChat_TextChanged);
             // 
             // btnSend
             // 
@@ -115,6 +117,11 @@
             this.LblStatus.TabIndex = 8;
             this.LblStatus.Text = "Status";
             // 
+            // contextMenuStrip1
+            // 
+            this.contextMenuStrip1.Name = "contextMenuStrip1";
+            this.contextMenuStrip1.Size = new System.Drawing.Size(61, 4);
+            // 
             // frmChat
             // 
             this.AcceptButton = this.btnSend;
@@ -128,7 +135,7 @@
             this.Controls.Add(this.btnzumbido);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.btnSend);
-            this.Controls.Add(this.rTBChat);
+            this.Controls.Add(this.ListaMsg);
             this.Controls.Add(this.txtMessage);
             this.DoubleBuffered = true;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
@@ -146,11 +153,12 @@
         #endregion
 
         private System.Windows.Forms.TextBox txtMessage;
-        private System.Windows.Forms.RichTextBox rTBChat;
+        private System.Windows.Forms.RichTextBox ListaMsg;
         private System.Windows.Forms.Button btnSend;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Button btnzumbido;
         private System.Windows.Forms.ComboBox comboBox1;
         private System.Windows.Forms.Label LblStatus;
+        private System.Windows.Forms.ContextMenuStrip contextMenuStrip1;
     }
 }

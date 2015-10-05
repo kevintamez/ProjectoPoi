@@ -18,13 +18,18 @@ using System.Diagnostics;
 using System.Configuration;
 using System.Web;
 using System.Net.NetworkInformation;
+using System.Media;
 namespace ClientPOI
 {
     public partial class frmChat : Form
     {
         Server server;
         User MyUser;
+        frmChat chat;
+        Hashtable Emoticono;
         Thread waitingMessage;
+        public List<frmChat> conversaciones;
+        public string Usuario;
         bool chatOn;
         public static int DEFAULT_PORT = 12345;
 
@@ -40,6 +45,89 @@ namespace ClientPOI
             InitializeComponent();
             
         }
+
+
+        public void AgregaEmoticono()
+        {
+            foreach (string EmotiParam in Emoticono.Keys)
+            {
+                while (ListaMsg.Text.Contains(EmotiParam))
+                {
+                    int emot = ListaMsg.Text.IndexOf(EmotiParam);
+                    ListaMsg.Select(emot, EmotiParam.Length);
+                    try
+                    {
+                        Clipboard.SetImage((Image)Emoticono[EmotiParam]);
+                        ListaMsg.Paste();
+                    }
+                    catch { }
+                }
+            }
+        }
+
+        public void Zumbido()
+        {
+            Stream str = Properties.Resources.zumbix;
+            SoundPlayer snd = new SoundPlayer(str);
+            snd.Play();
+        }
+
+
+
+        public delegate void SetTextCallback(string MsjParam);
+
+        public void EnviaMensaje(String MsjParam)
+        {
+            if (MsjParam == "ZumbidoMaldito")
+            {
+                Zumbido();
+                this.ListaMsg.BeginInvoke((MethodInvoker)delegate ()
+                {
+                    ListaMsg.AppendText(MsjParam + "\n");
+                    AgregaEmoticono();
+                });
+            }
+            else
+            {
+                this.ListaMsg.BeginInvoke((MethodInvoker)delegate ()
+                {
+                    ListaMsg.AppendText(MsjParam + "\n");
+                    AgregaEmoticono();
+                });
+            }
+        }
+
+        public void GuardaMensaje(String MsjParam)
+        {
+            if (MsjParam == "ZumbidoMaldito")
+            {
+                Zumbido();
+                this.ListaMsg.BeginInvoke((MethodInvoker)delegate ()
+                {
+                    ListaMsg.AppendText(MsjParam + "\n");
+                    AgregaEmoticono();
+                    string path = chat.MyUser.userName + "-" + Usuario + ".txt";
+                    string appendText = MsjParam + Environment.NewLine;
+                    File.AppendAllText(path, appendText);
+                });
+            }
+            else
+            {
+                this.ListaMsg.BeginInvoke((MethodInvoker)delegate ()
+                {
+                    ListaMsg.AppendText(MsjParam + "\n");
+                    AgregaEmoticono();
+                    string path = chat.MyUser.userName+ "-" + Usuario + ".txt";
+                    string appendText = MsjParam + Environment.NewLine;
+                    File.AppendAllText(path, appendText);
+                });
+            }
+        }
+
+
+
+
+
         public frmChat(string _Name, string _State, string _IP)
         {
             MyUser = new User();
@@ -112,6 +200,20 @@ namespace ClientPOI
             launchClient();
             
         }
+
+        private void CerrarChtPriv(object sender, FormClosingEventArgs e)
+        {
+            for (int ContaUsu = 0; ContaUsu < chat.conversaciones.Count; ContaUsu++)
+            {
+                if (Usuario == chat.conversaciones[ContaUsu].Usuario)
+                {
+                    chat.conversaciones.RemoveAt(ContaUsu);
+                    break;
+                }
+            }
+            chat.Show();
+        }
+
 
         public void WaittingMessage() {
 
@@ -210,16 +312,16 @@ namespace ClientPOI
             // InvokeRequired required compares the thread ID of the 
             // calling thread to the thread ID of the creating thread. 
             // If these threads are different, it returns true. 
-            if (this.rTBChat.InvokeRequired)
+            if (this.ListaMsg.InvokeRequired)
             {
                 SetTextCallback d = new SetTextCallback(SetText);
                 this.Invoke(d, new object[] { text });
             }
             else
             {
-                this.rTBChat.AppendText(text);
-                this.rTBChat.SelectionStart = this.rTBChat.Text.Length;
-                this.rTBChat.ScrollToCaret();
+                this.ListaMsg.AppendText(text);
+                this.ListaMsg.SelectionStart = this.ListaMsg.Text.Length;
+                this.ListaMsg.ScrollToCaret();
                 label1.Text = new Ping().Send(SERVER_ADRESS).RoundtripTime.ToString() + "ms";
             }
         }
@@ -227,7 +329,7 @@ namespace ClientPOI
        
 
 
-        public delegate void SetTextCallback(string message);
+        
 
 
 

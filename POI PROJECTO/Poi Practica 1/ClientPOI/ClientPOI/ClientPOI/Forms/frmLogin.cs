@@ -37,5 +37,10 @@ namespace ClientPOI.Forms
 
        
         }
+
+        private void cBState_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -28,3 +28,15 @@ C:\Users\kevin\Documents\Descargas\POI\Poi Practica 1\Poi Practica 1\ClientPOI\C
 C:\Users\kevin\Documents\Descargas\POI\Poi Practica 1\Poi Practica 1\ClientPOI\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmPrincipal.resources
 C:\Users\kevin\Documents\Descargas\POI\Poi Practica 1\Poi Practica 1\ClientPOI\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.Forms.prueba.resources
 C:\Users\kevin\Documents\Descargas\POI\Poi Practica 1\Poi Practica 1\ClientPOI\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.csprojResolveAssemblyReference.cache
+C:\Users\kevin\Documents\GitHub\ProjectoPoi\POI PROJECTO\Poi Practica 1\ClientPOI\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.exe
+C:\Users\kevin\Documents\GitHub\ProjectoPoi\POI PROJECTO\Poi Practica 1\ClientPOI\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.pdb
+C:\Users\kevin\Documents\GitHub\ProjectoPoi\POI PROJECTO\Poi Practica 1\ClientPOI\ClientPOI\ClientPOI\bin\Debug\ClientPOI.exe
+C:\Users\kevin\Documents\GitHub\ProjectoPoi\POI PROJECTO\Poi Practica 1\ClientPOI\ClientPOI\ClientPOI\bin\Debug\ClientPOI.pdb
+C:\Users\kevin\Documents\GitHub\ProjectoPoi\POI PROJECTO\Poi Practica 1\ClientPOI\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.csprojResolveAssemblyReference.cache
+C:\Users\kevin\Documents\GitHub\ProjectoPoi\POI PROJECTO\Poi Practica 1\ClientPOI\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.frmChat.resources
+C:\Users\kevin\Documents\GitHub\ProjectoPoi\POI PROJECTO\Poi Practica 1\ClientPOI\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmChatGrupal.resources
+C:\Users\kevin\Documents\GitHub\ProjectoPoi\POI PROJECTO\Poi Practica 1\ClientPOI\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmLogin.resources
+C:\Users\kevin\Documents\GitHub\ProjectoPoi\POI PROJECTO\Poi Practica 1\ClientPOI\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.Forms.frmPrincipal.resources
+C:\Users\kevin\Documents\GitHub\ProjectoPoi\POI PROJECTO\Poi Practica 1\ClientPOI\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.Forms.prueba.resources
+C:\Users\kevin\Documents\GitHub\ProjectoPoi\POI PROJECTO\Poi Practica 1\ClientPOI\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.Properties.Resources.resources
+C:\Users\kevin\Documents\GitHub\ProjectoPoi\POI PROJECTO\Poi Practica 1\ClientPOI\ClientPOI\ClientPOI\obj\x86\Debug\ClientPOI.csproj.GenerateResource.Cache
