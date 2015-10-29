@@ -1,0 +1,9 @@
+c:\users\ray\documents\visual studio 2013\Projects\SMTP\SMTP\bin\Debug\SMTP.exe.config
+c:\users\ray\documents\visual studio 2013\Projects\SMTP\SMTP\bin\Debug\SMTP.exe
+c:\users\ray\documents\visual studio 2013\Projects\SMTP\SMTP\bin\Debug\SMTP.pdb
+c:\users\ray\documents\visual studio 2013\Projects\SMTP\SMTP\obj\Debug\SMTP.csprojResolveAssemblyReference.cache
+c:\users\ray\documents\visual studio 2013\Projects\SMTP\SMTP\obj\Debug\SMTP.Form1.resources
+c:\users\ray\documents\visual studio 2013\Projects\SMTP\SMTP\obj\Debug\SMTP.Properties.Resources.resources
+c:\users\ray\documents\visual studio 2013\Projects\SMTP\SMTP\obj\Debug\SMTP.csproj.GenerateResource.Cache
+c:\users\ray\documents\visual studio 2013\Projects\SMTP\SMTP\obj\Debug\SMTP.exe
+c:\users\ray\documents\visual studio 2013\Projects\SMTP\SMTP\obj\Debug\SMTP.pdb

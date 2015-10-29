@@ -24,23 +24,23 @@ namespace ClientPOI.Forms
             if (txtServer.Text != "")
                 if (txtUser.Text != "")
                 {
-                    frmChat Chat = new frmChat(txtUser.Text, cBState.Text, txtServer.Text);
-                    Chat.Show();
+                    //frmChat Chat = new frmChat(txtUser.Text, cBState.Text, txtServer.Text);
+                    //Chat.Show();
+                    //this.Hide();
+                    frmPrincipal muro = new frmPrincipal(txtUser.Text, cBState.Text, txtServer.Text);
+                    muro.Show();
                     this.Hide();
+
                 }
         }
 
         private void frmLogin_Load(object sender, EventArgs e)
         {
-            frmPrincipal principal=new frmPrincipal();
-            principal.Show();
+           // frmPrincipal principal=new frmPrincipal();
+           // principal.Show();
 
        
         }
 
-        private void cBState_SelectedIndexChanged(object sender, EventArgs e)
-        {
-
-        }
     }
 }

@@ -1,0 +1,1 @@
+C:\Users\kevin\Documents\GitHub\ProjectoPoi\POI PROJECTO\Poi Practica 1\ServerPOI\ServerPOI\DataAcces\obj\Debug\DataAcces.csprojResolveAssemblyReference.cache

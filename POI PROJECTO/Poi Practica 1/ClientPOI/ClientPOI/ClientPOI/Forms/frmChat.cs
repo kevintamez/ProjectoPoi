@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -13,16 +14,31 @@ using ClientPOI.USER;
 using ClientPOI.SERVER;
 using System.Threading;
 using System.IO;
-using System.Collections;
 using System.Diagnostics;
 using System.Configuration;
 using System.Web;
 using System.Net.NetworkInformation;
 using System.Media;
+using AForge.Video.DirectShow;
+using NAudio.Wave;
+
 namespace ClientPOI
 {
     public partial class frmChat : Form
     {
+        #region Audio
+
+            private Thread mListenThread;
+            private IPEndPoint sIpEnd;
+            private Socket audioSocket;
+            private WaveIn wavein;
+            private WaveOut waveout;
+            private static BufferedWaveProvider wavProv;
+
+        #endregion
+        //Video
+        VideoCaptureDevice videoSource;
+
         Server server;
         User MyUser;
         frmChat chat;
@@ -71,8 +87,6 @@ namespace ClientPOI
             SoundPlayer snd = new SoundPlayer(str);
             snd.Play();
         }
-
-
 
         public delegate void SetTextCallback(string MsjParam);
 
@@ -123,10 +137,6 @@ namespace ClientPOI
                 });
             }
         }
-
-
-
-
 
         public frmChat(string _Name, string _State, string _IP)
         {
@@ -214,7 +224,6 @@ namespace ClientPOI
             chat.Show();
         }
 
-
         public void WaittingMessage() {
 
             while (chatOn)
@@ -271,7 +280,6 @@ namespace ClientPOI
             */
             
         }
-
         private void btnSend_Click(object sender, EventArgs e)
         {
             
@@ -281,8 +289,6 @@ namespace ClientPOI
             txtMessage.Text = "";
             txtMessage.Focus();    
         }
-
-   
 
         private void frmChat_FormClosing(object sender, FormClosingEventArgs e)
         {
@@ -300,7 +306,55 @@ namespace ClientPOI
             Application.Exit();
         }
 
+        #region video 
+        void InitWebCam(int nr)
+        {
+            //Auflistung aller Webcam/Videogeräte
+            FilterInfoCollection videosources = new FilterInfoCollection(FilterCategory.VideoInputDevice);
 
+            //Überprüfen, ob mindestens eine Webcam gefunden wurde
+            if (videosources != null)
+            {
+                //Die Webcam "nr" an unser Webcam Objekt binden
+                videoSource = new VideoCaptureDevice(videosources[nr].MonikerString);
+
+                try
+                {
+                    //Überprüfen ob die Webcam Technische-Eigenschaften mitliefert
+                    if (videoSource.VideoCapabilities.Length > 0)
+                    {
+                        string lowestSolution = "10000;0";
+                        //Das Profil mit der niedrigsten Auflösung suchen
+                        for (int i = 0; i < videoSource.VideoCapabilities.Length; i++)
+                        {
+                            if (videoSource.VideoCapabilities[i].FrameSize.Width < Convert.ToInt32(lowestSolution.Split(';')[0]))
+                                lowestSolution = videoSource.VideoCapabilities[i].FrameSize.Width.ToString() + ";" + i.ToString();
+                        }
+                        //Dem Webcam Objekt die niedrigstmögliche Auflösung übergeben
+                        videoSource.DesiredFrameSize = videoSource.VideoCapabilities[Convert.ToInt32(lowestSolution.Split(';')[1])].FrameSize;
+                    }
+                }
+                catch (Exception e)
+                {
+                    MessageBox.Show(e.ToString());
+                }
+
+                //Dem Webcam Objekt den NewFrame Eventhandler zuweisen.
+                //Dieser schlägt bei jedem eingehenden Bild der Webcam an
+                videoSource.NewFrame += new AForge.Video.NewFrameEventHandler(videoSource_NewFrame);
+
+                //Die Webcam aktivieren
+                videoSource.Start();
+            }
+        }
+
+        void videoSource_NewFrame(object sender, AForge.Video.NewFrameEventArgs eventArgs)
+        {
+            //Jedes ankommende Bild von der Webcam der Picturebox zuweisen
+            pictureBox2.BackgroundImage = (Image)eventArgs.Frame.Clone();
+        }
+
+#endregion
 
         private void txtChat_VisibleChanged(object sender, EventArgs e)
         {
@@ -357,8 +411,14 @@ namespace ClientPOI
 
         private void btnZumbido_Click(object sender, EventArgs e)
         {
+            Zumbido();
         }
-       
 
+        private void btnzumbido_Click_1(object sender, EventArgs e)
+        {
+            Zumbido();
+        }
+
+        
     }
 }

@@ -38,6 +38,10 @@
             this.comboBox1 = new System.Windows.Forms.ComboBox();
             this.LblStatus = new System.Windows.Forms.Label();
             this.contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(this.components);
+            this.pictureBox2 = new System.Windows.Forms.PictureBox();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // txtMessage
@@ -67,7 +71,7 @@
             this.btnSend.BackColor = System.Drawing.Color.PeachPuff;
             this.btnSend.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btnSend.FlatAppearance.BorderSize = 0;
-            this.btnSend.Location = new System.Drawing.Point(560, 300);
+            this.btnSend.Location = new System.Drawing.Point(562, 354);
             this.btnSend.Name = "btnSend";
             this.btnSend.Size = new System.Drawing.Size(73, 24);
             this.btnSend.TabIndex = 4;
@@ -91,13 +95,14 @@
             this.btnzumbido.BackColor = System.Drawing.Color.PeachPuff;
             this.btnzumbido.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btnzumbido.FlatAppearance.BorderSize = 0;
-            this.btnzumbido.Location = new System.Drawing.Point(560, 340);
+            this.btnzumbido.Location = new System.Drawing.Point(562, 394);
             this.btnzumbido.Name = "btnzumbido";
             this.btnzumbido.Size = new System.Drawing.Size(73, 24);
             this.btnzumbido.TabIndex = 6;
             this.btnzumbido.Text = "Zumbido";
             this.btnzumbido.TextImageRelation = System.Windows.Forms.TextImageRelation.TextAboveImage;
             this.btnzumbido.UseVisualStyleBackColor = false;
+            this.btnzumbido.Click += new System.EventHandler(this.btnzumbido_Click_1);
             // 
             // comboBox1
             // 
@@ -122,6 +127,22 @@
             this.contextMenuStrip1.Name = "contextMenuStrip1";
             this.contextMenuStrip1.Size = new System.Drawing.Size(61, 4);
             // 
+            // pictureBox2
+            // 
+            this.pictureBox2.Location = new System.Drawing.Point(522, 31);
+            this.pictureBox2.Name = "pictureBox2";
+            this.pictureBox2.Size = new System.Drawing.Size(138, 132);
+            this.pictureBox2.TabIndex = 10;
+            this.pictureBox2.TabStop = false;
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Location = new System.Drawing.Point(522, 178);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(138, 132);
+            this.pictureBox1.TabIndex = 11;
+            this.pictureBox1.TabStop = false;
+            // 
             // frmChat
             // 
             this.AcceptButton = this.btnSend;
@@ -130,6 +151,8 @@
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(672, 444);
+            this.Controls.Add(this.pictureBox1);
+            this.Controls.Add(this.pictureBox2);
             this.Controls.Add(this.LblStatus);
             this.Controls.Add(this.comboBox1);
             this.Controls.Add(this.btnzumbido);
@@ -145,6 +168,8 @@
             this.Text = "Chat Orange";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.frmChat_FormClosing);
             this.Load += new System.EventHandler(this.frmChat_Load);
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -160,5 +185,7 @@
         private System.Windows.Forms.ComboBox comboBox1;
         private System.Windows.Forms.Label LblStatus;
         private System.Windows.Forms.ContextMenuStrip contextMenuStrip1;
+        private System.Windows.Forms.PictureBox pictureBox2;
+        private System.Windows.Forms.PictureBox pictureBox1;
     }
 }
