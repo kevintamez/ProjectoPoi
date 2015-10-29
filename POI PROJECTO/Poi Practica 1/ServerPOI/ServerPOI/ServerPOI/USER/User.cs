@@ -97,9 +97,7 @@ namespace ServerPOI.USER
                                 Server.Client[i].userSocket.Send(data, recv, SocketFlags.None);
                         }
                     }
-                    catch (SocketException e) {
-                        e.ToString();
-                    }
+                    catch (SocketException e) {}
                 }
 
             }

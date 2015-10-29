@@ -1,0 +1,30 @@
+C:\Users\ray\documents\visual studio 2010\Projects\POI\Server\bin\Debug\Server.exe
+C:\Users\ray\documents\visual studio 2010\Projects\POI\Server\bin\Debug\Server.pdb
+C:\Users\ray\documents\visual studio 2010\Projects\POI\Server\obj\x86\Debug\Server.Servidor.resources
+C:\Users\ray\documents\visual studio 2010\Projects\POI\Server\obj\x86\Debug\Server.Properties.Resources.resources
+C:\Users\ray\documents\visual studio 2010\Projects\POI\Server\obj\x86\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\ray\documents\visual studio 2010\Projects\POI\Server\obj\x86\Debug\Server.exe
+C:\Users\ray\documents\visual studio 2010\Projects\POI\Server\obj\x86\Debug\Server.pdb
+C:\Users\ray\documents\visual studio 2010\Projects\POI\Server\bin\Debug\POI.dll
+C:\Users\ray\documents\visual studio 2010\Projects\POI\Server\bin\Debug\POI.pdb
+C:\Users\ray\documents\visual studio 2010\Projects\POI\Server\obj\x86\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\ray\Documents\FCFM Stuff\Essays, Homework, and Stuff\6to. Semestre\Programacion Orientada a Internet\Transferencia de Archivos\Server\bin\Debug\Server.exe
+C:\Users\ray\Documents\FCFM Stuff\Essays, Homework, and Stuff\6to. Semestre\Programacion Orientada a Internet\Transferencia de Archivos\Server\bin\Debug\Server.pdb
+C:\Users\ray\Documents\FCFM Stuff\Essays, Homework, and Stuff\6to. Semestre\Programacion Orientada a Internet\Transferencia de Archivos\Server\bin\Debug\POI.dll
+C:\Users\ray\Documents\FCFM Stuff\Essays, Homework, and Stuff\6to. Semestre\Programacion Orientada a Internet\Transferencia de Archivos\Server\bin\Debug\POI.pdb
+C:\Users\ray\Documents\FCFM Stuff\Essays, Homework, and Stuff\6to. Semestre\Programacion Orientada a Internet\Transferencia de Archivos\Server\obj\x86\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\ray\Documents\FCFM Stuff\Essays, Homework, and Stuff\6to. Semestre\Programacion Orientada a Internet\Transferencia de Archivos\Server\obj\x86\Debug\Server.Servidor.resources
+C:\Users\ray\Documents\FCFM Stuff\Essays, Homework, and Stuff\6to. Semestre\Programacion Orientada a Internet\Transferencia de Archivos\Server\obj\x86\Debug\Server.Properties.Resources.resources
+C:\Users\ray\Documents\FCFM Stuff\Essays, Homework, and Stuff\6to. Semestre\Programacion Orientada a Internet\Transferencia de Archivos\Server\obj\x86\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\ray\Documents\FCFM Stuff\Essays, Homework, and Stuff\6to. Semestre\Programacion Orientada a Internet\Transferencia de Archivos\Server\obj\x86\Debug\Server.exe
+C:\Users\ray\Documents\FCFM Stuff\Essays, Homework, and Stuff\6to. Semestre\Programacion Orientada a Internet\Transferencia de Archivos\Server\obj\x86\Debug\Server.pdb
+C:\Users\kevin\Documents\GitHub\ProjectoPoi\Transferencia de Archivos\Server\obj\x86\Debug\Server.exe
+C:\Users\kevin\Documents\GitHub\ProjectoPoi\Transferencia de Archivos\Server\obj\x86\Debug\Server.pdb
+C:\Users\kevin\Documents\GitHub\ProjectoPoi\Transferencia de Archivos\Server\bin\Debug\Server.exe
+C:\Users\kevin\Documents\GitHub\ProjectoPoi\Transferencia de Archivos\Server\bin\Debug\Server.pdb
+C:\Users\kevin\Documents\GitHub\ProjectoPoi\Transferencia de Archivos\Server\bin\Debug\POI.dll
+C:\Users\kevin\Documents\GitHub\ProjectoPoi\Transferencia de Archivos\Server\bin\Debug\POI.pdb
+C:\Users\kevin\Documents\GitHub\ProjectoPoi\Transferencia de Archivos\Server\obj\x86\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\kevin\Documents\GitHub\ProjectoPoi\Transferencia de Archivos\Server\obj\x86\Debug\Server.Servidor.resources
+C:\Users\kevin\Documents\GitHub\ProjectoPoi\Transferencia de Archivos\Server\obj\x86\Debug\Server.Properties.Resources.resources
+C:\Users\kevin\Documents\GitHub\ProjectoPoi\Transferencia de Archivos\Server\obj\x86\Debug\Server.csproj.GenerateResource.Cache

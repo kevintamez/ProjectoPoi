@@ -29,7 +29,6 @@
         private void InitializeComponent()
         {
             this.txtLog = new System.Windows.Forms.TextBox();
-            this.testconection = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // txtLog
@@ -41,22 +40,11 @@
             this.txtLog.Size = new System.Drawing.Size(260, 237);
             this.txtLog.TabIndex = 0;
             // 
-            // testconection
-            // 
-            this.testconection.Location = new System.Drawing.Point(90, 210);
-            this.testconection.Name = "testconection";
-            this.testconection.Size = new System.Drawing.Size(75, 23);
-            this.testconection.TabIndex = 1;
-            this.testconection.Text = "test Conection";
-            this.testconection.UseVisualStyleBackColor = true;
-            this.testconection.Click += new System.EventHandler(this.testconection_Click);
-            // 
             // frmSever
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(284, 261);
-            this.Controls.Add(this.testconection);
             this.Controls.Add(this.txtLog);
             this.Name = "frmSever";
             this.Text = "Server";
@@ -70,6 +58,5 @@
         #endregion
 
         private System.Windows.Forms.TextBox txtLog;
-        private System.Windows.Forms.Button testconection;
     }
 }
