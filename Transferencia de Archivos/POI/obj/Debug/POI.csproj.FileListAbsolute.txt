@@ -1,0 +1,14 @@
+C:\Users\ray\documents\visual studio 2010\Projects\POI\POI\bin\Debug\POI.dll
+C:\Users\ray\documents\visual studio 2010\Projects\POI\POI\bin\Debug\POI.pdb
+C:\Users\ray\documents\visual studio 2010\Projects\POI\POI\obj\Debug\POI.dll
+C:\Users\ray\documents\visual studio 2010\Projects\POI\POI\obj\Debug\POI.pdb
+C:\Users\ray\Documents\FCFM Stuff\Essays, Homework, and Stuff\6to. Semestre\Programacion Orientada a Internet\Transferencia de Archivos\POI\bin\Debug\POI.dll
+C:\Users\ray\Documents\FCFM Stuff\Essays, Homework, and Stuff\6to. Semestre\Programacion Orientada a Internet\Transferencia de Archivos\POI\bin\Debug\POI.pdb
+C:\Users\ray\Documents\FCFM Stuff\Essays, Homework, and Stuff\6to. Semestre\Programacion Orientada a Internet\Transferencia de Archivos\POI\obj\Debug\POI.dll
+C:\Users\ray\Documents\FCFM Stuff\Essays, Homework, and Stuff\6to. Semestre\Programacion Orientada a Internet\Transferencia de Archivos\POI\obj\Debug\POI.pdb
+C:\Users\ray\Documents\FCFM Stuff\Essays, Homework, and Stuff\6to. Semestre\Programacion Orientada a Internet\Transferencia de Archivos\POI\obj\Debug\POI.csprojResolveAssemblyReference.cache
+C:\Users\kevin\Documents\GitHub\ProjectoPoi\Transferencia de Archivos\POI\bin\Debug\POI.dll
+C:\Users\kevin\Documents\GitHub\ProjectoPoi\Transferencia de Archivos\POI\bin\Debug\POI.pdb
+C:\Users\kevin\Documents\GitHub\ProjectoPoi\Transferencia de Archivos\POI\obj\Debug\POI.csprojResolveAssemblyReference.cache
+C:\Users\kevin\Documents\GitHub\ProjectoPoi\Transferencia de Archivos\POI\obj\Debug\POI.dll
+C:\Users\kevin\Documents\GitHub\ProjectoPoi\Transferencia de Archivos\POI\obj\Debug\POI.pdb

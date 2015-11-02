@@ -12,7 +12,7 @@ using System.Net;
 using System.Net.Sockets;
 using System.Threading;
 using ServerPOI.FW;
-using ServerPOI.Conection;
+//using ServerPOI.Conection;
 
 
 namespace ServerPOI
@@ -125,9 +125,9 @@ namespace ServerPOI
 
         public delegate void SetTextCallback(string message);
 
-        private void testconection_Click(object sender, EventArgs e)
-        {
-            Connection.con();   
-        }
+        //private void testconection_Click(object sender, EventArgs e)
+        //{
+        //    //Connection.con();   
+        //}
     }
 }

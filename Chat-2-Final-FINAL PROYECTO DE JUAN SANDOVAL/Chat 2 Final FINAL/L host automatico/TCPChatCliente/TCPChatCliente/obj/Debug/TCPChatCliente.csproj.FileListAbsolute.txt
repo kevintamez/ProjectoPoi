@@ -1,0 +1,250 @@
+c:\users\toluka\documents\visual studio 2013\Projects\TCPChatCliente\TCPChatCliente\bin\Debug\TCPChatCliente.exe.config
+c:\users\toluka\documents\visual studio 2013\Projects\TCPChatCliente\TCPChatCliente\bin\Debug\TCPChatCliente.exe
+c:\users\toluka\documents\visual studio 2013\Projects\TCPChatCliente\TCPChatCliente\bin\Debug\TCPChatCliente.pdb
+c:\users\toluka\documents\visual studio 2013\Projects\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.csprojResolveAssemblyReference.cache
+c:\users\toluka\documents\visual studio 2013\Projects\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.Properties.Resources.resources
+c:\users\toluka\documents\visual studio 2013\Projects\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.csproj.GenerateResource.Cache
+c:\users\toluka\documents\visual studio 2013\Projects\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.exe
+c:\users\toluka\documents\visual studio 2013\Projects\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.pdb
+c:\users\toluka\documents\visual studio 2013\Projects\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.Login.resources
+c:\users\toluka\documents\visual studio 2013\Projects\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.ChangeHostIP.resources
+C:\Users\Toluka\Documents\Visual Studio 2013\Projects\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.Chat.resources
+C:\Users\Toluka\Documents\Visual Studio 2013\Projects\TCPChatCliente\TCPChatCliente\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Toluka\Documents\Visual Studio 2013\Projects\TCPChatCliente\TCPChatCliente\bin\Debug\AForge.Video.dll
+C:\Users\Toluka\Documents\Visual Studio 2013\Projects\TCPChatCliente\TCPChatCliente\bin\Debug\AForge.dll
+C:\Users\Toluka\Documents\Visual Studio 2013\Projects\TCPChatCliente\TCPChatCliente\bin\Debug\AForge.Video.xml
+C:\Users\Toluka\Documents\Visual Studio 2013\Projects\TCPChatCliente\TCPChatCliente\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Toluka\Documents\Visual Studio 2013\Projects\TCPChatCliente\TCPChatCliente\bin\Debug\AForge.xml
+C:\Users\Toluka\Documents\Visual Studio 2013\Projects\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.ChatPersonal.resources
+C:\Users\Toluka\Desktop\Pruebas\TCPChatCliente\TCPChatCliente\bin\Debug\TCPChatCliente.exe.config
+C:\Users\Toluka\Desktop\Pruebas\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.exe
+C:\Users\Toluka\Desktop\Pruebas\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.pdb
+C:\Users\Toluka\Desktop\Pruebas\TCPChatCliente\TCPChatCliente\bin\Debug\TCPChatCliente.exe
+C:\Users\Toluka\Desktop\Pruebas\TCPChatCliente\TCPChatCliente\bin\Debug\TCPChatCliente.pdb
+C:\Users\Toluka\Desktop\Pruebas\TCPChatCliente\TCPChatCliente\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Toluka\Desktop\Pruebas\TCPChatCliente\TCPChatCliente\bin\Debug\AForge.Video.dll
+C:\Users\Toluka\Desktop\Pruebas\TCPChatCliente\TCPChatCliente\bin\Debug\AForge.dll
+C:\Users\Toluka\Desktop\Pruebas\TCPChatCliente\TCPChatCliente\bin\Debug\AForge.Video.xml
+C:\Users\Toluka\Desktop\Pruebas\TCPChatCliente\TCPChatCliente\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Toluka\Desktop\Pruebas\TCPChatCliente\TCPChatCliente\bin\Debug\AForge.xml
+C:\Users\Toluka\Desktop\Pruebas\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.csprojResolveAssemblyReference.cache
+C:\Users\Toluka\Desktop\Pruebas\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.ChangeHostIP.resources
+C:\Users\Toluka\Desktop\Pruebas\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.Chat.resources
+C:\Users\Toluka\Desktop\Pruebas\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.ChatPersonal.resources
+C:\Users\Toluka\Desktop\Pruebas\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.Login.resources
+C:\Users\Toluka\Desktop\Pruebas\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.Properties.Resources.resources
+C:\Users\Toluka\Desktop\Pruebas\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.csproj.GenerateResource.Cache
+C:\Users\Toluka\Desktop\POI\Pruebas\TCPChatCliente\TCPChatCliente\bin\Debug\TCPChatCliente.exe.config
+C:\Users\Toluka\Desktop\POI\Pruebas\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.exe
+C:\Users\Toluka\Desktop\POI\Pruebas\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.pdb
+C:\Users\Toluka\Desktop\POI\Pruebas\TCPChatCliente\TCPChatCliente\bin\Debug\TCPChatCliente.exe
+C:\Users\Toluka\Desktop\POI\Pruebas\TCPChatCliente\TCPChatCliente\bin\Debug\TCPChatCliente.pdb
+C:\Users\Toluka\Desktop\POI\Pruebas\TCPChatCliente\TCPChatCliente\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Toluka\Desktop\POI\Pruebas\TCPChatCliente\TCPChatCliente\bin\Debug\AForge.Video.dll
+C:\Users\Toluka\Desktop\POI\Pruebas\TCPChatCliente\TCPChatCliente\bin\Debug\AForge.dll
+C:\Users\Toluka\Desktop\POI\Pruebas\TCPChatCliente\TCPChatCliente\bin\Debug\AForge.Video.xml
+C:\Users\Toluka\Desktop\POI\Pruebas\TCPChatCliente\TCPChatCliente\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Toluka\Desktop\POI\Pruebas\TCPChatCliente\TCPChatCliente\bin\Debug\AForge.xml
+C:\Users\Toluka\Desktop\POI\Pruebas\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.csprojResolveAssemblyReference.cache
+C:\Users\Toluka\Desktop\POI\Pruebas\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.ChangeHostIP.resources
+C:\Users\Toluka\Desktop\POI\Pruebas\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.Chat.resources
+C:\Users\Toluka\Desktop\POI\Pruebas\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.ChatPersonal.resources
+C:\Users\Toluka\Desktop\POI\Pruebas\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.Login.resources
+C:\Users\Toluka\Desktop\POI\Pruebas\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.Properties.Resources.resources
+C:\Users\Toluka\Desktop\POI\Pruebas\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.csproj.GenerateResource.Cache
+C:\Users\Toluka\Desktop\POI\Pruebas\TCPChatCliente\TCPChatCliente\bin\Debug\AForge.Controls.dll
+C:\Users\Toluka\Desktop\POI\Pruebas\TCPChatCliente\TCPChatCliente\bin\Debug\AForge.Imaging.dll
+C:\Users\Toluka\Desktop\POI\Pruebas\TCPChatCliente\TCPChatCliente\bin\Debug\AForge.Math.dll
+C:\Users\Toluka\Desktop\POI\Pruebas\TCPChatCliente\TCPChatCliente\bin\Debug\AForge.Controls.xml
+C:\Users\Toluka\Desktop\POI\Pruebas\TCPChatCliente\TCPChatCliente\bin\Debug\AForge.Imaging.xml
+C:\Users\Toluka\Desktop\POI\Pruebas\TCPChatCliente\TCPChatCliente\bin\Debug\AForge.Math.xml
+C:\Users\Toluka\Desktop\POI\Pruebas\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.Stmpcs.resources
+C:\Users\Asus\Desktop\Proyecto POI\TCPChatCliente\TCPChatCliente\bin\Debug\TCPChatCliente.exe.config
+C:\Users\Asus\Desktop\Proyecto POI\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.exe
+C:\Users\Asus\Desktop\Proyecto POI\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.pdb
+C:\Users\Asus\Desktop\Proyecto POI\TCPChatCliente\TCPChatCliente\bin\Debug\TCPChatCliente.exe
+C:\Users\Asus\Desktop\Proyecto POI\TCPChatCliente\TCPChatCliente\bin\Debug\TCPChatCliente.pdb
+C:\Users\Asus\Desktop\Proyecto POI\TCPChatCliente\TCPChatCliente\bin\Debug\AForge.Controls.dll
+C:\Users\Asus\Desktop\Proyecto POI\TCPChatCliente\TCPChatCliente\bin\Debug\AForge.dll
+C:\Users\Asus\Desktop\Proyecto POI\TCPChatCliente\TCPChatCliente\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Asus\Desktop\Proyecto POI\TCPChatCliente\TCPChatCliente\bin\Debug\AForge.Video.dll
+C:\Users\Asus\Desktop\Proyecto POI\TCPChatCliente\TCPChatCliente\bin\Debug\AForge.Imaging.dll
+C:\Users\Asus\Desktop\Proyecto POI\TCPChatCliente\TCPChatCliente\bin\Debug\AForge.Math.dll
+C:\Users\Asus\Desktop\Proyecto POI\TCPChatCliente\TCPChatCliente\bin\Debug\AForge.xml
+C:\Users\Asus\Desktop\Proyecto POI\TCPChatCliente\TCPChatCliente\bin\Debug\AForge.Controls.xml
+C:\Users\Asus\Desktop\Proyecto POI\TCPChatCliente\TCPChatCliente\bin\Debug\AForge.Video.xml
+C:\Users\Asus\Desktop\Proyecto POI\TCPChatCliente\TCPChatCliente\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Asus\Desktop\Proyecto POI\TCPChatCliente\TCPChatCliente\bin\Debug\AForge.Imaging.xml
+C:\Users\Asus\Desktop\Proyecto POI\TCPChatCliente\TCPChatCliente\bin\Debug\AForge.Math.xml
+C:\Users\Asus\Desktop\Proyecto POI\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\Proyecto POI\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.ChangeHostIP.resources
+C:\Users\Asus\Desktop\Proyecto POI\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.Chat.resources
+C:\Users\Asus\Desktop\Proyecto POI\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.ChatPersonal.resources
+C:\Users\Asus\Desktop\Proyecto POI\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.Login.resources
+C:\Users\Asus\Desktop\Proyecto POI\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.Properties.Resources.resources
+C:\Users\Asus\Desktop\Proyecto POI\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.Stmpcs.resources
+C:\Users\Asus\Desktop\Proyecto POI\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\Proyecto POI\TCPChatCliente\TCPChatCliente\bin\Debug\NAudio.dll
+D:\Desktop\NO MOVER NO ABRIR\FACU\Proyecto POI\TCPChatCliente\TCPChatCliente\bin\Debug\TCPChatCliente.exe.config
+D:\Desktop\NO MOVER NO ABRIR\FACU\Proyecto POI\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.exe
+D:\Desktop\NO MOVER NO ABRIR\FACU\Proyecto POI\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.pdb
+D:\Desktop\NO MOVER NO ABRIR\FACU\Proyecto POI\TCPChatCliente\TCPChatCliente\bin\Debug\TCPChatCliente.exe
+D:\Desktop\NO MOVER NO ABRIR\FACU\Proyecto POI\TCPChatCliente\TCPChatCliente\bin\Debug\TCPChatCliente.pdb
+D:\Desktop\NO MOVER NO ABRIR\FACU\Proyecto POI\TCPChatCliente\TCPChatCliente\bin\Debug\NAudio.dll
+D:\Desktop\NO MOVER NO ABRIR\FACU\Proyecto POI\TCPChatCliente\TCPChatCliente\bin\Debug\AForge.Imaging.dll
+D:\Desktop\NO MOVER NO ABRIR\FACU\Proyecto POI\TCPChatCliente\TCPChatCliente\bin\Debug\AForge.Math.dll
+D:\Desktop\NO MOVER NO ABRIR\FACU\Proyecto POI\TCPChatCliente\TCPChatCliente\bin\Debug\AForge.xml
+D:\Desktop\NO MOVER NO ABRIR\FACU\Proyecto POI\TCPChatCliente\TCPChatCliente\bin\Debug\AForge.Controls.xml
+D:\Desktop\NO MOVER NO ABRIR\FACU\Proyecto POI\TCPChatCliente\TCPChatCliente\bin\Debug\AForge.Video.xml
+D:\Desktop\NO MOVER NO ABRIR\FACU\Proyecto POI\TCPChatCliente\TCPChatCliente\bin\Debug\AForge.Video.DirectShow.xml
+D:\Desktop\NO MOVER NO ABRIR\FACU\Proyecto POI\TCPChatCliente\TCPChatCliente\bin\Debug\AForge.Imaging.xml
+D:\Desktop\NO MOVER NO ABRIR\FACU\Proyecto POI\TCPChatCliente\TCPChatCliente\bin\Debug\AForge.Math.xml
+D:\Desktop\NO MOVER NO ABRIR\FACU\Proyecto POI\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.csprojResolveAssemblyReference.cache
+D:\Desktop\NO MOVER NO ABRIR\FACU\Proyecto POI\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.ChangeHostIP.resources
+D:\Desktop\NO MOVER NO ABRIR\FACU\Proyecto POI\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.Chat.resources
+D:\Desktop\NO MOVER NO ABRIR\FACU\Proyecto POI\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.ChatPersonal.resources
+D:\Desktop\NO MOVER NO ABRIR\FACU\Proyecto POI\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.Login.resources
+D:\Desktop\NO MOVER NO ABRIR\FACU\Proyecto POI\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.Properties.Resources.resources
+D:\Desktop\NO MOVER NO ABRIR\FACU\Proyecto POI\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.Stmpcs.resources
+D:\Desktop\NO MOVER NO ABRIR\FACU\Proyecto POI\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.csproj.GenerateResource.Cache
+D:\Desktop\TCPChatCliente\TCPChatCliente\bin\Debug\TCPChatCliente.exe.config
+D:\Desktop\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.exe
+D:\Desktop\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.pdb
+D:\Desktop\TCPChatCliente\TCPChatCliente\bin\Debug\TCPChatCliente.exe
+D:\Desktop\TCPChatCliente\TCPChatCliente\bin\Debug\TCPChatCliente.pdb
+D:\Desktop\TCPChatCliente\TCPChatCliente\bin\Debug\NAudio.dll
+D:\Desktop\TCPChatCliente\TCPChatCliente\bin\Debug\AForge.Imaging.dll
+D:\Desktop\TCPChatCliente\TCPChatCliente\bin\Debug\AForge.Math.dll
+D:\Desktop\TCPChatCliente\TCPChatCliente\bin\Debug\AForge.xml
+D:\Desktop\TCPChatCliente\TCPChatCliente\bin\Debug\AForge.Controls.xml
+D:\Desktop\TCPChatCliente\TCPChatCliente\bin\Debug\AForge.Video.xml
+D:\Desktop\TCPChatCliente\TCPChatCliente\bin\Debug\AForge.Video.DirectShow.xml
+D:\Desktop\TCPChatCliente\TCPChatCliente\bin\Debug\AForge.Imaging.xml
+D:\Desktop\TCPChatCliente\TCPChatCliente\bin\Debug\AForge.Math.xml
+D:\Desktop\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.csprojResolveAssemblyReference.cache
+D:\Desktop\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.ChangeHostIP.resources
+D:\Desktop\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.Chat.resources
+D:\Desktop\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.ChatPersonal.resources
+D:\Desktop\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.Login.resources
+D:\Desktop\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.Properties.Resources.resources
+D:\Desktop\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.Stmpcs.resources
+D:\Desktop\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.csproj.GenerateResource.Cache
+C:\Users\Equipo16\Desktop\TCPChatCliente\TCPChatCliente\bin\Debug\TCPChatCliente.exe.config
+C:\Users\Equipo16\Desktop\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.exe
+C:\Users\Equipo16\Desktop\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.pdb
+C:\Users\Equipo16\Desktop\TCPChatCliente\TCPChatCliente\bin\Debug\TCPChatCliente.exe
+C:\Users\Equipo16\Desktop\TCPChatCliente\TCPChatCliente\bin\Debug\TCPChatCliente.pdb
+C:\Users\Equipo16\Desktop\TCPChatCliente\TCPChatCliente\bin\Debug\NAudio.dll
+C:\Users\Equipo16\Desktop\TCPChatCliente\TCPChatCliente\bin\Debug\AForge.Imaging.dll
+C:\Users\Equipo16\Desktop\TCPChatCliente\TCPChatCliente\bin\Debug\AForge.Math.dll
+C:\Users\Equipo16\Desktop\TCPChatCliente\TCPChatCliente\bin\Debug\AForge.xml
+C:\Users\Equipo16\Desktop\TCPChatCliente\TCPChatCliente\bin\Debug\AForge.Controls.xml
+C:\Users\Equipo16\Desktop\TCPChatCliente\TCPChatCliente\bin\Debug\AForge.Video.xml
+C:\Users\Equipo16\Desktop\TCPChatCliente\TCPChatCliente\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Equipo16\Desktop\TCPChatCliente\TCPChatCliente\bin\Debug\AForge.Imaging.xml
+C:\Users\Equipo16\Desktop\TCPChatCliente\TCPChatCliente\bin\Debug\AForge.Math.xml
+C:\Users\Equipo16\Desktop\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.csprojResolveAssemblyReference.cache
+C:\Users\Equipo16\Desktop\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.ChangeHostIP.resources
+C:\Users\Equipo16\Desktop\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.Chat.resources
+C:\Users\Equipo16\Desktop\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.ChatPersonal.resources
+C:\Users\Equipo16\Desktop\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.Login.resources
+C:\Users\Equipo16\Desktop\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.Properties.Resources.resources
+C:\Users\Equipo16\Desktop\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.Stmpcs.resources
+C:\Users\Equipo16\Desktop\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.csproj.GenerateResource.Cache
+C:\Users\Equipo10\Desktop\L\TCPChatCliente\TCPChatCliente\bin\Debug\TCPChatCliente.exe.config
+C:\Users\Equipo10\Desktop\L\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.exe
+C:\Users\Equipo10\Desktop\L\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.pdb
+C:\Users\Equipo10\Desktop\L\TCPChatCliente\TCPChatCliente\bin\Debug\TCPChatCliente.exe
+C:\Users\Equipo10\Desktop\L\TCPChatCliente\TCPChatCliente\bin\Debug\TCPChatCliente.pdb
+C:\Users\Equipo10\Desktop\L\TCPChatCliente\TCPChatCliente\bin\Debug\NAudio.dll
+C:\Users\Equipo10\Desktop\L\TCPChatCliente\TCPChatCliente\bin\Debug\AForge.Imaging.dll
+C:\Users\Equipo10\Desktop\L\TCPChatCliente\TCPChatCliente\bin\Debug\AForge.Math.dll
+C:\Users\Equipo10\Desktop\L\TCPChatCliente\TCPChatCliente\bin\Debug\AForge.xml
+C:\Users\Equipo10\Desktop\L\TCPChatCliente\TCPChatCliente\bin\Debug\AForge.Controls.xml
+C:\Users\Equipo10\Desktop\L\TCPChatCliente\TCPChatCliente\bin\Debug\AForge.Video.xml
+C:\Users\Equipo10\Desktop\L\TCPChatCliente\TCPChatCliente\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Equipo10\Desktop\L\TCPChatCliente\TCPChatCliente\bin\Debug\AForge.Imaging.xml
+C:\Users\Equipo10\Desktop\L\TCPChatCliente\TCPChatCliente\bin\Debug\AForge.Math.xml
+C:\Users\Equipo10\Desktop\L\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.csprojResolveAssemblyReference.cache
+C:\Users\Equipo10\Desktop\L\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.ChangeHostIP.resources
+C:\Users\Equipo10\Desktop\L\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.Chat.resources
+C:\Users\Equipo10\Desktop\L\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.ChatPersonal.resources
+C:\Users\Equipo10\Desktop\L\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.Login.resources
+C:\Users\Equipo10\Desktop\L\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.Properties.Resources.resources
+C:\Users\Equipo10\Desktop\L\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.Stmpcs.resources
+C:\Users\Equipo10\Desktop\L\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\L host automatico\TCPChatCliente\TCPChatCliente\bin\Debug\TCPChatCliente.exe.config
+C:\Users\usuario\Desktop\L host automatico\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.exe
+C:\Users\usuario\Desktop\L host automatico\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.pdb
+C:\Users\usuario\Desktop\copia chat\L host automatico\TCPChatCliente\TCPChatCliente\bin\Debug\TCPChatCliente.exe.config
+C:\Users\usuario\Desktop\copia chat\L host automatico\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.exe
+C:\Users\usuario\Desktop\copia chat\L host automatico\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.pdb
+C:\Users\usuario\Desktop\copia chat\L host automatico\TCPChatCliente\TCPChatCliente\bin\Debug\TCPChatCliente.exe
+C:\Users\usuario\Desktop\copia chat\L host automatico\TCPChatCliente\TCPChatCliente\bin\Debug\TCPChatCliente.pdb
+C:\Users\usuario\Desktop\copia chat\L host automatico\TCPChatCliente\TCPChatCliente\bin\Debug\NAudio.dll
+C:\Users\usuario\Desktop\copia chat\L host automatico\TCPChatCliente\TCPChatCliente\bin\Debug\AForge.Imaging.dll
+C:\Users\usuario\Desktop\copia chat\L host automatico\TCPChatCliente\TCPChatCliente\bin\Debug\AForge.Math.dll
+C:\Users\usuario\Desktop\copia chat\L host automatico\TCPChatCliente\TCPChatCliente\bin\Debug\AForge.xml
+C:\Users\usuario\Desktop\copia chat\L host automatico\TCPChatCliente\TCPChatCliente\bin\Debug\AForge.Controls.xml
+C:\Users\usuario\Desktop\copia chat\L host automatico\TCPChatCliente\TCPChatCliente\bin\Debug\AForge.Video.xml
+C:\Users\usuario\Desktop\copia chat\L host automatico\TCPChatCliente\TCPChatCliente\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\usuario\Desktop\copia chat\L host automatico\TCPChatCliente\TCPChatCliente\bin\Debug\AForge.Imaging.xml
+C:\Users\usuario\Desktop\copia chat\L host automatico\TCPChatCliente\TCPChatCliente\bin\Debug\AForge.Math.xml
+C:\Users\usuario\Desktop\copia chat\L host automatico\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\copia chat\L host automatico\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.ChangeHostIP.resources
+C:\Users\usuario\Desktop\copia chat\L host automatico\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.Chat.resources
+C:\Users\usuario\Desktop\copia chat\L host automatico\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.ChatPersonal.resources
+C:\Users\usuario\Desktop\copia chat\L host automatico\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.Login.resources
+C:\Users\usuario\Desktop\copia chat\L host automatico\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.Properties.Resources.resources
+C:\Users\usuario\Desktop\copia chat\L host automatico\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.Stmpcs.resources
+C:\Users\usuario\Desktop\copia chat\L host automatico\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\copia2\L host automatico\TCPChatCliente\TCPChatCliente\bin\Debug\TCPChatCliente.exe.config
+C:\Users\usuario\Desktop\copia2\L host automatico\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.exe
+C:\Users\usuario\Desktop\copia2\L host automatico\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.pdb
+C:\Users\usuario\Desktop\copia2\L host automatico\TCPChatCliente\TCPChatCliente\bin\Debug\TCPChatCliente.exe
+C:\Users\usuario\Desktop\copia2\L host automatico\TCPChatCliente\TCPChatCliente\bin\Debug\TCPChatCliente.pdb
+C:\Users\usuario\Desktop\copia2\L host automatico\TCPChatCliente\TCPChatCliente\bin\Debug\NAudio.dll
+C:\Users\usuario\Desktop\copia2\L host automatico\TCPChatCliente\TCPChatCliente\bin\Debug\AForge.Imaging.dll
+C:\Users\usuario\Desktop\copia2\L host automatico\TCPChatCliente\TCPChatCliente\bin\Debug\AForge.Math.dll
+C:\Users\usuario\Desktop\copia2\L host automatico\TCPChatCliente\TCPChatCliente\bin\Debug\AForge.xml
+C:\Users\usuario\Desktop\copia2\L host automatico\TCPChatCliente\TCPChatCliente\bin\Debug\AForge.Controls.xml
+C:\Users\usuario\Desktop\copia2\L host automatico\TCPChatCliente\TCPChatCliente\bin\Debug\AForge.Video.xml
+C:\Users\usuario\Desktop\copia2\L host automatico\TCPChatCliente\TCPChatCliente\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\usuario\Desktop\copia2\L host automatico\TCPChatCliente\TCPChatCliente\bin\Debug\AForge.Imaging.xml
+C:\Users\usuario\Desktop\copia2\L host automatico\TCPChatCliente\TCPChatCliente\bin\Debug\AForge.Math.xml
+C:\Users\usuario\Desktop\copia2\L host automatico\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\copia2\L host automatico\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.ChangeHostIP.resources
+C:\Users\usuario\Desktop\copia2\L host automatico\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.Chat.resources
+C:\Users\usuario\Desktop\copia2\L host automatico\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.ChatPersonal.resources
+C:\Users\usuario\Desktop\copia2\L host automatico\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.Login.resources
+C:\Users\usuario\Desktop\copia2\L host automatico\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.Properties.Resources.resources
+C:\Users\usuario\Desktop\copia2\L host automatico\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.Stmpcs.resources
+C:\Users\usuario\Desktop\copia2\L host automatico\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.csproj.GenerateResource.Cache
+C:\Users\Juan\Desktop\Chat 2 Final\L host automatico\TCPChatCliente\TCPChatCliente\bin\Debug\TCPChatCliente.exe.config
+C:\Users\Juan\Desktop\Chat 2 Final\L host automatico\TCPChatCliente\TCPChatCliente\bin\Debug\TCPChatCliente.exe
+C:\Users\Juan\Desktop\Chat 2 Final\L host automatico\TCPChatCliente\TCPChatCliente\bin\Debug\TCPChatCliente.pdb
+C:\Users\Juan\Desktop\Chat 2 Final\L host automatico\TCPChatCliente\TCPChatCliente\bin\Debug\NAudio.dll
+C:\Users\Juan\Desktop\Chat 2 Final\L host automatico\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.ChangeHostIP.resources
+C:\Users\Juan\Desktop\Chat 2 Final\L host automatico\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.Chat.resources
+C:\Users\Juan\Desktop\Chat 2 Final\L host automatico\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.ChatPersonal.resources
+C:\Users\Juan\Desktop\Chat 2 Final\L host automatico\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.Correo.resources
+C:\Users\Juan\Desktop\Chat 2 Final\L host automatico\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.frmSplash.resources
+C:\Users\Juan\Desktop\Chat 2 Final\L host automatico\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.Login.resources
+C:\Users\Juan\Desktop\Chat 2 Final\L host automatico\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.Properties.Resources.resources
+C:\Users\Juan\Desktop\Chat 2 Final\L host automatico\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.Stmpcs.resources
+C:\Users\Juan\Desktop\Chat 2 Final\L host automatico\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.csproj.GenerateResource.Cache
+C:\Users\Juan\Desktop\Chat 2 Final\L host automatico\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.exe
+C:\Users\Juan\Desktop\Chat 2 Final\L host automatico\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.pdb
+C:\Users\kevin\Downloads\Chat-2-Final-FINAL\Chat 2 Final FINAL\L host automatico\TCPChatCliente\TCPChatCliente\bin\Debug\TCPChatCliente.exe.config
+C:\Users\kevin\Downloads\Chat-2-Final-FINAL\Chat 2 Final FINAL\L host automatico\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.exe
+C:\Users\kevin\Downloads\Chat-2-Final-FINAL\Chat 2 Final FINAL\L host automatico\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.pdb
+C:\Users\kevin\Downloads\Chat-2-Final-FINAL\Chat 2 Final FINAL\L host automatico\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.csprojResolveAssemblyReference.cache
+C:\Users\kevin\Downloads\Chat-2-Final-FINAL\Chat 2 Final FINAL\L host automatico\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.ChangeHostIP.resources
+C:\Users\kevin\Downloads\Chat-2-Final-FINAL\Chat 2 Final FINAL\L host automatico\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.Chat.resources
+C:\Users\kevin\Downloads\Chat-2-Final-FINAL\Chat 2 Final FINAL\L host automatico\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.ChatPersonal.resources
+C:\Users\kevin\Downloads\Chat-2-Final-FINAL\Chat 2 Final FINAL\L host automatico\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.Correo.resources
+C:\Users\kevin\Downloads\Chat-2-Final-FINAL\Chat 2 Final FINAL\L host automatico\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.frmSplash.resources
+C:\Users\kevin\Downloads\Chat-2-Final-FINAL\Chat 2 Final FINAL\L host automatico\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.Login.resources
+C:\Users\kevin\Downloads\Chat-2-Final-FINAL\Chat 2 Final FINAL\L host automatico\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.Properties.Resources.resources
+C:\Users\kevin\Downloads\Chat-2-Final-FINAL\Chat 2 Final FINAL\L host automatico\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.Stmpcs.resources
+C:\Users\kevin\Downloads\Chat-2-Final-FINAL\Chat 2 Final FINAL\L host automatico\TCPChatCliente\TCPChatCliente\obj\Debug\TCPChatCliente.csproj.GenerateResource.Cache

@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -13,18 +14,38 @@ using ClientPOI.USER;
 using ClientPOI.SERVER;
 using System.Threading;
 using System.IO;
-using System.Collections;
 using System.Diagnostics;
 using System.Configuration;
 using System.Web;
 using System.Net.NetworkInformation;
+using System.Media;
+using AForge.Video.DirectShow;
+using NAudio.Wave;
+
 namespace ClientPOI
 {
     public partial class frmChat : Form
     {
+        #region Audio
+
+            private Thread mListenThread;
+            private IPEndPoint sIpEnd;
+            private Socket audioSocket;
+            private WaveIn wavein;
+            private WaveOut waveout;
+            private static BufferedWaveProvider wavProv;
+
+        #endregion
+        //Video
+        VideoCaptureDevice videoSource;
+
         Server server;
         User MyUser;
+        frmChat chat;
+        Hashtable Emoticono;
         Thread waitingMessage;
+        public List<frmChat> conversaciones;
+        public string Usuario;
         bool chatOn;
         public static int DEFAULT_PORT = 12345;
 
@@ -40,6 +61,83 @@ namespace ClientPOI
             InitializeComponent();
             
         }
+
+
+        public void AgregaEmoticono()
+        {
+            foreach (string EmotiParam in Emoticono.Keys)
+            {
+                while (ListaMsg.Text.Contains(EmotiParam))
+                {
+                    int emot = ListaMsg.Text.IndexOf(EmotiParam);
+                    ListaMsg.Select(emot, EmotiParam.Length);
+                    try
+                    {
+                        Clipboard.SetImage((Image)Emoticono[EmotiParam]);
+                        ListaMsg.Paste();
+                    }
+                    catch { }
+                }
+            }
+        }
+
+        public void Zumbido()
+        {
+            Stream str = Properties.Resources.zumbix;
+            SoundPlayer snd = new SoundPlayer(str);
+            snd.Play();
+        }
+
+        public delegate void SetTextCallback(string MsjParam);
+
+        public void EnviaMensaje(String MsjParam)
+        {
+            if (MsjParam == "ZumbidoMaldito")
+            {
+                Zumbido();
+                this.ListaMsg.BeginInvoke((MethodInvoker)delegate ()
+                {
+                    ListaMsg.AppendText(MsjParam + "\n");
+                    AgregaEmoticono();
+                });
+            }
+            else
+            {
+                this.ListaMsg.BeginInvoke((MethodInvoker)delegate ()
+                {
+                    ListaMsg.AppendText(MsjParam + "\n");
+                    AgregaEmoticono();
+                });
+            }
+        }
+
+        public void GuardaMensaje(String MsjParam)
+        {
+            if (MsjParam == "ZumbidoMaldito")
+            {
+                Zumbido();
+                this.ListaMsg.BeginInvoke((MethodInvoker)delegate ()
+                {
+                    ListaMsg.AppendText(MsjParam + "\n");
+                    AgregaEmoticono();
+                    string path = chat.MyUser.userName + "-" + Usuario + ".txt";
+                    string appendText = MsjParam + Environment.NewLine;
+                    File.AppendAllText(path, appendText);
+                });
+            }
+            else
+            {
+                this.ListaMsg.BeginInvoke((MethodInvoker)delegate ()
+                {
+                    ListaMsg.AppendText(MsjParam + "\n");
+                    AgregaEmoticono();
+                    string path = chat.MyUser.userName+ "-" + Usuario + ".txt";
+                    string appendText = MsjParam + Environment.NewLine;
+                    File.AppendAllText(path, appendText);
+                });
+            }
+        }
+
         public frmChat(string _Name, string _State, string _IP)
         {
             MyUser = new User();
@@ -113,6 +211,19 @@ namespace ClientPOI
             
         }
 
+        private void CerrarChtPriv(object sender, FormClosingEventArgs e)
+        {
+            for (int ContaUsu = 0; ContaUsu < chat.conversaciones.Count; ContaUsu++)
+            {
+                if (Usuario == chat.conversaciones[ContaUsu].Usuario)
+                {
+                    chat.conversaciones.RemoveAt(ContaUsu);
+                    break;
+                }
+            }
+            chat.Show();
+        }
+
         public void WaittingMessage() {
 
             while (chatOn)
@@ -169,7 +280,6 @@ namespace ClientPOI
             */
             
         }
-
         private void btnSend_Click(object sender, EventArgs e)
         {
             
@@ -179,8 +289,6 @@ namespace ClientPOI
             txtMessage.Text = "";
             txtMessage.Focus();    
         }
-
-   
 
         private void frmChat_FormClosing(object sender, FormClosingEventArgs e)
         {
@@ -198,7 +306,55 @@ namespace ClientPOI
             Application.Exit();
         }
 
+        #region video 
+        void InitWebCam(int nr)
+        {
+            //Auflistung aller Webcam/Videogeräte
+            FilterInfoCollection videosources = new FilterInfoCollection(FilterCategory.VideoInputDevice);
 
+            //Überprüfen, ob mindestens eine Webcam gefunden wurde
+            if (videosources != null)
+            {
+                //Die Webcam "nr" an unser Webcam Objekt binden
+                videoSource = new VideoCaptureDevice(videosources[nr].MonikerString);
+
+                try
+                {
+                    //Überprüfen ob die Webcam Technische-Eigenschaften mitliefert
+                    if (videoSource.VideoCapabilities.Length > 0)
+                    {
+                        string lowestSolution = "10000;0";
+                        //Das Profil mit der niedrigsten Auflösung suchen
+                        for (int i = 0; i < videoSource.VideoCapabilities.Length; i++)
+                        {
+                            if (videoSource.VideoCapabilities[i].FrameSize.Width < Convert.ToInt32(lowestSolution.Split(';')[0]))
+                                lowestSolution = videoSource.VideoCapabilities[i].FrameSize.Width.ToString() + ";" + i.ToString();
+                        }
+                        //Dem Webcam Objekt die niedrigstmögliche Auflösung übergeben
+                        videoSource.DesiredFrameSize = videoSource.VideoCapabilities[Convert.ToInt32(lowestSolution.Split(';')[1])].FrameSize;
+                    }
+                }
+                catch (Exception e)
+                {
+                    MessageBox.Show(e.ToString());
+                }
+
+                //Dem Webcam Objekt den NewFrame Eventhandler zuweisen.
+                //Dieser schlägt bei jedem eingehenden Bild der Webcam an
+                videoSource.NewFrame += new AForge.Video.NewFrameEventHandler(videoSource_NewFrame);
+
+                //Die Webcam aktivieren
+                videoSource.Start();
+            }
+        }
+
+        void videoSource_NewFrame(object sender, AForge.Video.NewFrameEventArgs eventArgs)
+        {
+            //Jedes ankommende Bild von der Webcam der Picturebox zuweisen
+            pictureBox2.BackgroundImage = (Image)eventArgs.Frame.Clone();
+        }
+
+#endregion
 
         private void txtChat_VisibleChanged(object sender, EventArgs e)
         {
@@ -210,16 +366,16 @@ namespace ClientPOI
             // InvokeRequired required compares the thread ID of the 
             // calling thread to the thread ID of the creating thread. 
             // If these threads are different, it returns true. 
-            if (this.rTBChat.InvokeRequired)
+            if (this.ListaMsg.InvokeRequired)
             {
                 SetTextCallback d = new SetTextCallback(SetText);
                 this.Invoke(d, new object[] { text });
             }
             else
             {
-                this.rTBChat.AppendText(text);
-                this.rTBChat.SelectionStart = this.rTBChat.Text.Length;
-                this.rTBChat.ScrollToCaret();
+                this.ListaMsg.AppendText(text);
+                this.ListaMsg.SelectionStart = this.ListaMsg.Text.Length;
+                this.ListaMsg.ScrollToCaret();
                 label1.Text = new Ping().Send(SERVER_ADRESS).RoundtripTime.ToString() + "ms";
             }
         }
@@ -227,7 +383,7 @@ namespace ClientPOI
        
 
 
-        public delegate void SetTextCallback(string message);
+        
 
 
 
@@ -255,8 +411,14 @@ namespace ClientPOI
 
         private void btnZumbido_Click(object sender, EventArgs e)
         {
+            Zumbido();
         }
-       
 
+        private void btnzumbido_Click_1(object sender, EventArgs e)
+        {
+            Zumbido();
+        }
+
+        
     }
 }

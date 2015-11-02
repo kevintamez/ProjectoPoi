@@ -59,5 +59,198 @@ namespace ClientPOI.Properties {
                 resourceCulture = value;
             }
         }
+        internal static System.Drawing.Bitmap triste
+        {
+            get
+            {
+                object obj = ResourceManager.GetObject("triste", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        
+
+        }
+
+        internal static System.Drawing.Bitmap aliviado
+        {
+            get
+            {
+                object obj = ResourceManager.GetObject("aliviado", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+
+
+        }
+
+        internal static System.Drawing.Bitmap asco
+        {
+            get
+            {
+                object obj = ResourceManager.GetObject("asco", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+
+
+        }
+
+        internal static System.Drawing.Bitmap beso
+        {
+            get
+            {
+                object obj = ResourceManager.GetObject("beso", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+
+
+        }
+
+        internal static System.Drawing.Bitmap desanimado
+        {
+            get
+            {
+                object obj = ResourceManager.GetObject("desanimado", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+
+
+        }
+
+        internal static System.Drawing.Bitmap fastidiado
+        {
+            get
+            {
+                object obj = ResourceManager.GetObject("fastidiado", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+
+
+        }
+
+        internal static System.Drawing.Bitmap enamorado
+        {
+            get
+            {
+                object obj = ResourceManager.GetObject("enamorado", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+
+
+        }
+
+        internal static System.Drawing.Bitmap feliz
+        {
+            get
+            {
+                object obj = ResourceManager.GetObject("feliz", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+}
+
+        internal static System.Drawing.Bitmap jijitl
+        {
+            get
+            {
+                object obj = ResourceManager.GetObject("jijitl", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+
+
+        }
+
+        internal static System.Drawing.Bitmap guiño
+        {
+            get
+            {
+                object obj = ResourceManager.GetObject("guiño", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+
+
+        }
+
+
+        internal static System.Drawing.Bitmap lagrima
+        {
+            get
+            {
+                object obj = ResourceManager.GetObject("lagrima", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+
+
+        }
+
+        internal static System.Drawing.Bitmap MuyFeliz
+        {
+            get
+            {
+                object obj = ResourceManager.GetObject("MuyFeliz", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+
+
+        }
+
+        internal static System.Drawing.Bitmap pícaro
+        {
+            get
+            {
+                object obj = ResourceManager.GetObject("pícaro", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+
+
+        }
+
+        internal static System.Drawing.Bitmap lengua
+        {
+            get
+            {
+                object obj = ResourceManager.GetObject("lengua", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+
+
+        }
+
+
+        internal static System.Drawing.Bitmap sonrisa
+        {
+            get
+            {
+                object obj = ResourceManager.GetObject("sonrisa", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+
+
+        }
+
+
+        internal static System.Drawing.Bitmap sonrojado
+        {
+            get
+            {
+                object obj = ResourceManager.GetObject("sonrojado", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+
+
+        }
+
+        internal static System.IO.UnmanagedMemoryStream zumbix
+        {
+            get
+            {
+                return ResourceManager.GetStream("zumbix", resourceCulture);
+            }
+        }
+
+
+
+
+
+
     }
+
+
+
 }
