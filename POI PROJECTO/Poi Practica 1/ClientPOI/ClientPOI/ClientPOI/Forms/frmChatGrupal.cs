@@ -113,7 +113,7 @@ namespace ClientPOI.Forms
 
                 // Regresa una imagen a partir de un string Deserializar
                 Image image = StringToImage(imageAsString);
-
+                //funcion de des-
             }
             
         }

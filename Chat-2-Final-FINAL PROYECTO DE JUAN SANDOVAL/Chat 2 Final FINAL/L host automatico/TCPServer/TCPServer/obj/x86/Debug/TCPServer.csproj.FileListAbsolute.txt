@@ -1,0 +1,42 @@
+c:\users\fcfm\documents\visual studio 2010\Projects\TCPServer\TCPServer\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\fcfm\documents\visual studio 2010\Projects\TCPServer\TCPServer\bin\Debug\TCPServer.exe
+c:\users\fcfm\documents\visual studio 2010\Projects\TCPServer\TCPServer\bin\Debug\TCPServer.pdb
+c:\users\fcfm\documents\visual studio 2010\Projects\TCPServer\TCPServer\obj\x86\Debug\TCPServer.exe
+c:\users\fcfm\documents\visual studio 2010\Projects\TCPServer\TCPServer\obj\x86\Debug\TCPServer.pdb
+G:\TCPServer\TCPServer\obj\x86\Debug\TCPServer.exe
+G:\TCPServer\TCPServer\obj\x86\Debug\TCPServer.pdb
+G:\TCPServer\TCPServer\bin\Debug\TCPServer.exe
+G:\TCPServer\TCPServer\bin\Debug\TCPServer.pdb
+G:\TCPServer\TCPServer\obj\x86\Debug\TCPServer.csprojResolveAssemblyReference.cache
+C:\Users\Toluka\Desktop\MultiHilo\TCPServer\TCPServer\obj\x86\Debug\TCPServer.exe
+C:\Users\Toluka\Desktop\MultiHilo\TCPServer\TCPServer\obj\x86\Debug\TCPServer.pdb
+C:\Users\Toluka\Desktop\MultiHilo\TCPServer\TCPServer\bin\Debug\TCPServer.exe
+C:\Users\Toluka\Desktop\MultiHilo\TCPServer\TCPServer\bin\Debug\TCPServer.pdb
+C:\Users\Toluka\Desktop\MultiHilo\TCPServer\TCPServer\obj\x86\Debug\TCPServer.csprojResolveAssemblyReference.cache
+C:\Users\Toluka\Desktop\Pruebas\TCPServer\TCPServer\obj\x86\Debug\TCPServer.exe
+C:\Users\Toluka\Desktop\Pruebas\TCPServer\TCPServer\obj\x86\Debug\TCPServer.pdb
+C:\Users\Toluka\Desktop\Pruebas\TCPServer\TCPServer\bin\Debug\TCPServer.exe
+C:\Users\Toluka\Desktop\Pruebas\TCPServer\TCPServer\bin\Debug\TCPServer.pdb
+C:\Users\Toluka\Desktop\Pruebas\TCPServer\TCPServer\obj\x86\Debug\TCPServer.csprojResolveAssemblyReference.cache
+C:\Users\Toluka\Desktop\POI\Pruebas\TCPServer\TCPServer\obj\x86\Debug\TCPServer.exe
+C:\Users\Toluka\Desktop\POI\Pruebas\TCPServer\TCPServer\obj\x86\Debug\TCPServer.pdb
+C:\Users\Toluka\Desktop\POI\Pruebas\TCPServer\TCPServer\bin\Debug\TCPServer.exe
+C:\Users\Toluka\Desktop\POI\Pruebas\TCPServer\TCPServer\bin\Debug\TCPServer.pdb
+C:\Users\Toluka\Desktop\POI\Pruebas\TCPServer\TCPServer\obj\x86\Debug\TCPServer.csprojResolveAssemblyReference.cache
+D:\Desktop\TCPServer\TCPServer\obj\x86\Debug\TCPServer.exe
+D:\Desktop\TCPServer\TCPServer\obj\x86\Debug\TCPServer.pdb
+D:\Desktop\TCPServer\TCPServer\bin\Debug\TCPServer.exe
+D:\Desktop\TCPServer\TCPServer\bin\Debug\TCPServer.pdb
+D:\Desktop\TCPServer\TCPServer\obj\x86\Debug\TCPServer.csprojResolveAssemblyReference.cache
+C:\Users\Equipo10\Desktop\L\TCPServer\TCPServer\obj\x86\Debug\TCPServer.exe
+C:\Users\Equipo10\Desktop\L\TCPServer\TCPServer\obj\x86\Debug\TCPServer.pdb
+C:\Users\Equipo10\Desktop\L\TCPServer\TCPServer\bin\Debug\TCPServer.exe
+C:\Users\Equipo10\Desktop\L\TCPServer\TCPServer\bin\Debug\TCPServer.pdb
+C:\Users\Equipo10\Desktop\L\TCPServer\TCPServer\obj\x86\Debug\TCPServer.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\copia2\L host automatico\TCPServer\TCPServer\obj\x86\Debug\TCPServer.exe
+C:\Users\usuario\Desktop\copia2\L host automatico\TCPServer\TCPServer\obj\x86\Debug\TCPServer.pdb
+C:\Users\Juan\Desktop\Chat 2 Final\L host automatico\TCPServer\TCPServer\obj\x86\Debug\TCPServer.exe
+C:\Users\Juan\Desktop\Chat 2 Final\L host automatico\TCPServer\TCPServer\obj\x86\Debug\TCPServer.pdb
+C:\Users\Juan\Desktop\Chat 2 Final\L host automatico\TCPServer\TCPServer\bin\Debug\TCPServer.exe
+C:\Users\Juan\Desktop\Chat 2 Final\L host automatico\TCPServer\TCPServer\bin\Debug\TCPServer.pdb
+C:\Users\Juan\Desktop\Chat 2 Final\L host automatico\TCPServer\TCPServer\obj\x86\Debug\TCPServer.csprojResolveAssemblyReference.cache

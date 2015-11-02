@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPServer", "TCPServer\TCPServer.csproj", "{6BCF3BF3-F880-4C86-A35E-FB7FF4992403}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BCF3BF3-F880-4C86-A35E-FB7FF4992403}.Debug|x86.ActiveCfg = Debug|x86
+		{6BCF3BF3-F880-4C86-A35E-FB7FF4992403}.Debug|x86.Build.0 = Debug|x86
+		{6BCF3BF3-F880-4C86-A35E-FB7FF4992403}.Release|x86.ActiveCfg = Release|x86
+		{6BCF3BF3-F880-4C86-A35E-FB7FF4992403}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
